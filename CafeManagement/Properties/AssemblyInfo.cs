@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CafeManagement")]
+[assembly: AssemblyTitle("CafeManagementSystem")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CafeManagement")]
+[assembly: AssemblyProduct("CafeManagementSystem")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("01c7d23e-16e3-45b2-b266-5cb535e911f9")]
+[assembly: Guid("d2316003-f35b-4f7e-b6db-acf5deef7a9c")]
 
 // Version information for an assembly consists of the following four values:
 //
